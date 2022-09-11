@@ -2297,6 +2297,7 @@ console log করে দে খাতে সে টা কি তুমি প�
 সে গুলাকে ক োন একটা array এর মধ্যে রাখবে । আর যদি নে গে টিভ সংখ্যা হয়।
 তাহলে লপুটা স্টপ করে দি বে । এবং লপু বন্ধ করার আগ পর্যন্ত যতগুলা পজি টিভ
 সংখ্যা পাওয়া গে ছে । সে গুলা রি টার্ন করে দি বে ।
+
   
 ``` 
 </details>
@@ -2602,6 +2603,18 @@ ii. Hoisting is javaScript default behavior of moving all declarations to the to
 68. How to use the javaScript callback function?
 69. Explain closure in JavaScript?
 70. Explain passed by value and passed by reference?
+
+// Module : 40  (Interview Quation)
+71. What is a call stack?
+72. Tell us about Try-catch?
+73. Name some console APIs.
+74. What is syntax error?
+75. When do we get reference error?
+76. a) what is wrong with the code below:
+var foo;
+console.log(foo.bar);
+b) What type of error will the code generate?
+c) What is the correct way to write the code?
 	
 	
 	
