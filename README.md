@@ -40,6 +40,7 @@ List of JavaScript:
 - [javascriptInterviewQuestions](#javascriptInterviewQuestions)
 - [Notes](#Notes)
 - [Table](#Table)
+-[Snippets](#snippetsForJavascript)
 
 
 
