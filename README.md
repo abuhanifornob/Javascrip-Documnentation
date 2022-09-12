@@ -2637,6 +2637,14 @@ c) What is the correct way to write the code?
 
   ### Table
 	<details>
+	<summary>
+  <h3>Tabel Summary (Click Me)</h3>
+</summary>
+<br >
+
+Tabel
+
+```js
 <div class="overflow-x-auto">
   <table class="table w-full">
     <!-- head -->
@@ -2943,6 +2951,8 @@ c) What is the correct way to write the code?
     </tbody>
   </table>
 </div>
+
+```
 	</details>
   
   ### snippetsForJavascript
@@ -3024,7 +3034,7 @@ c) What is the correct way to write the code?
   <h3>Debug Technic (Click Me)</h3>
 </summary>
 <br >
-Debu
+Debug
 
 
 ```js
