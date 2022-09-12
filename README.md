@@ -2632,20 +2632,110 @@ c) What is the correct way to write the code?
   
  ```
 </details>
+	 ### snippetsForJavascript
+<details>
+<summary>
+  <h3>your snippets for javascript here</h3>
+</summary>
+<br >
+  
+ ```js
+
+{
+	// Example:
+	"Print to console": {
+		"prefix": "cl",
+		"body": [
+			"console.log($1)"
+		],
+		"description": "Log output to console"
+	},
+	"Print to console.error": {
+		"prefix": "ce",
+		"body": [
+			"console.error($1)"
+		],
+		"description": "Log output to console"
+	},
+	"Print to const": {
+		"prefix": "cn",
+		"body": [
+			"const $1 = $2;",
+			"$3"
+		],
+		"description": "Log output to const"
+	},
+	"Print to const function": {
+		"prefix": "cf",
+		"body": [
+			"const $1 = ($2) => {$3}",
+			"$4"
+		],
+		"description": "Log output to const function"
+	},
+	"Print to if": {
+		"prefix": "i",
+		"body": [
+			"if($1){$2}",
+			"$3"
+		],
+		"description": "Log output to if"
+	},
+	"Print to fetch": {
+		"prefix": "fet",
+		"body": [
+			"fetch('$1')",
+			".then(res => res.json())",
+			".then(data => $2)",
+			"$3"
+		],
+		"description": "Log output to fetch"
+	},
+	"Print to let": {
+		"prefix": "le",
+		"body": [
+			"let $1 = $2;",
+			"$3"
+		],
+		"description": "Log output to let"
+	},
+}
+  ```
+
+</details>
+
+###debug
+
+<details>
+<summary>
+  <h3>Debug Technic (Click Me)</h3>
+</summary>
+<br >
+Debug
+
+
+```js
+/* 
+Debug Steps: 
+1. Error check (error reproduce)
+2. Check others stuffs on the website
+3. Check Console for error
+4. click on the link of the error (it will take you to the code)
+5. If needed add a breakpoint and try to stop the code over there and see the values
+6. if needed console log output
+7. search full code base (Ctrl + Shift + F) > don't forget about partial match
+8. look around for typo
+*/
+```
+</details>
+
+
 
 
 
   ### Table
 	<details>
-	<summary>
-  <h3>Tabel Summary (Click Me)</h3>
-</summary>
-<br >
-
-Tabel
-
-```js
-
+	
   <table class="table w-full">
     <!-- head -->
     <thead>
@@ -2952,107 +3042,10 @@ Tabel
   </table>
 
 
-```
+
 	</details>
   
-  ### snippetsForJavascript
-<details>
-<summary>
-  <h3>your snippets for javascript here</h3>
-</summary>
-<br >
-  
- ```js
-
-{
-	// Example:
-	"Print to console": {
-		"prefix": "cl",
-		"body": [
-			"console.log($1)"
-		],
-		"description": "Log output to console"
-	},
-	"Print to console.error": {
-		"prefix": "ce",
-		"body": [
-			"console.error($1)"
-		],
-		"description": "Log output to console"
-	},
-	"Print to const": {
-		"prefix": "cn",
-		"body": [
-			"const $1 = $2;",
-			"$3"
-		],
-		"description": "Log output to const"
-	},
-	"Print to const function": {
-		"prefix": "cf",
-		"body": [
-			"const $1 = ($2) => {$3}",
-			"$4"
-		],
-		"description": "Log output to const function"
-	},
-	"Print to if": {
-		"prefix": "i",
-		"body": [
-			"if($1){$2}",
-			"$3"
-		],
-		"description": "Log output to if"
-	},
-	"Print to fetch": {
-		"prefix": "fet",
-		"body": [
-			"fetch('$1')",
-			".then(res => res.json())",
-			".then(data => $2)",
-			"$3"
-		],
-		"description": "Log output to fetch"
-	},
-	"Print to let": {
-		"prefix": "le",
-		"body": [
-			"let $1 = $2;",
-			"$3"
-		],
-		"description": "Log output to let"
-	},
-}
-  
- ```
-</details>
-
-###debug
-
-<details>
-<summary>
-  <h3>Debug Technic (Click Me)</h3>
-</summary>
-<br >
-Debug
-
-
-```js
-/* 
-Debug Steps: 
-1. Error check (error reproduce)
-2. Check others stuffs on the website
-3. Check Console for error
-4. click on the link of the error (it will take you to the code)
-5. If needed add a breakpoint and try to stop the code over there and see the values
-6. if needed console log output
-7. search full code base (Ctrl + Shift + F) > don't forget about partial match
-8. look around for typo
-*/
-```
-</details>
-
-
+ 
 
 
 
