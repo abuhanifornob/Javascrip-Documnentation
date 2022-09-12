@@ -2476,14 +2476,9 @@ i. Making a type in a variable name.
 ii. Trying to access block-scoped variables outside of their scopes.
 
 
-
-
-
-
-
-
 ```
 </details>
+	
   
 ### JavascriptInterviewQuestions
 <details>
@@ -2491,6 +2486,7 @@ ii. Trying to access block-scoped variables outside of their scopes.
   <h3>javascript Interview Questions (Click Me)</h3>
 </summary>
 <br >
+	JavascriptInterviewQuestions
   
  ```js
 //Basic knowledge
@@ -2633,7 +2629,9 @@ c) What is the correct way to write the code?
   
  ```
 </details>
-	 ### snippetsForJavascript
+	
+### snippetsForJavascript
+	
 <details>
 <summary>
   <h3>your snippets for javascript here</h3>
