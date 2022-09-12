@@ -2636,6 +2636,7 @@ c) What is the correct way to write the code?
 
 
   ### Table
+	<details>
 <div class="overflow-x-auto">
   <table class="table w-full">
     <!-- head -->
@@ -2942,6 +2943,7 @@ c) What is the correct way to write the code?
     </tbody>
   </table>
 </div>
+	</details>
   
   ### snippetsForJavascript
 <details>
