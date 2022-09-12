@@ -39,9 +39,10 @@ List of JavaScript:
 - [jsProblemSolved](#jsProblemSolved)
 - [javascriptInterviewQuestions](#javascriptInterviewQuestions)
 - [Notes](#Notes)
+- [Snippets](#snippetsForJavascript)
+- [debug steps](#debug)
 - [Table](#Table)
--[Snippets](#snippetsForJavascript)
--[debug steps](#debug)
+
 
 
 
@@ -2491,7 +2492,7 @@ ii. Trying to access block-scoped variables outside of their scopes.
 </summary>
 <br >
   
- ```css
+ ```js
 //Basic knowledge
 1. how does internet work?
 
