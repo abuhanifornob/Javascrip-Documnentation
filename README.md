@@ -39,7 +39,7 @@ List of JavaScript:
 - [jsProblemSolved](#jsProblemSolved)
 - [javascriptInterviewQuestions](#javascriptInterviewQuestions)
 - [Notes](#Notes)
-- [Snippets](#snippetsForJavascript)
+- [Snippets](#JavascriptInterviewQuestions)
 - [debug steps](#debug)
 - [Table](#Table)
 
@@ -2485,7 +2485,7 @@ ii. Trying to access block-scoped variables outside of their scopes.
 ```
 </details>
   
-### javascriptInterviewQuestions
+### JavascriptInterviewQuestions
 <details>
 <summary>
   <h3>javascript Interview Questions (Click Me)</h3>
