@@ -2645,7 +2645,7 @@ c) What is the correct way to write the code?
 Tabel
 
 ```js
-<div class="overflow-x-auto">
+
   <table class="table w-full">
     <!-- head -->
     <thead>
@@ -2950,7 +2950,7 @@ Tabel
       </tr>
     </tbody>
   </table>
-</div>
+
 
 ```
 	</details>
